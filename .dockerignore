@@ -1,0 +1,11 @@
+target/
+.git/
+.gitignore
+*.md
+.idea/
+*.iml
+.vscode/
+python/
+__pycache__/
+*.pyc
+
